@@ -3,7 +3,7 @@
 Software Engineer. Tech Enthusiast. Aspiring Polymath. Avid follower of Soccer & Combat Sports.
 </h4>
 
-<p align="center"><em>Life is What You Make it.<em></p>
+<p align="center"><em>Life is What You Make it.</em></p>
 
 <br/>
 
