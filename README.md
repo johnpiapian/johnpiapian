@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sut</h1>
-<h3 align="center">Software Engineer and Tech Enthusiast!</h3>
+<h1 align="center">Hello, I'm Sut</h1>
+<h4 align="center">
+Software Engineer. Tech Enthusiast. Aspiring Polymath. Avid follower of Soccer & Combat Sports.
+</h4>
+
+<p align="center"><em>Life is What You Make it.<em></p>
+
+<br/>
 
 - 👨‍💻 Learn more about me and my projects at [https://suttuang.com/](https://suttuang.com/)
 - 📫 How to reach me **johnpiapian@gmail.com**
