@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Sut</h1>
 <h4 align="center">
-  Software Engineer. Tech Enthusiast. Aspiring Polymath. Minimalist.
+  Software Engineer. Tech Enthusiast. Aspiring Polymath. Minimalist. Avid Soccer and MMA fan.
 </h4>
 
 <p align="center"><em>Life is What You Make it.</em></p>
