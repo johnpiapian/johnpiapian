@@ -3,7 +3,7 @@
   Software Engineer. Tech Enthusiast. Aspiring Polymath. Minimalist. Avid Soccer and MMA fan.
 </h4>
 
-<p align="center"><em>Life is What You Make it.</em></p>
+<p align="center"><em>Simplicity is the soul of efficiency. – Austin Freeman</em></p>
 
 <br/>
 
