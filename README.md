@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning more about SDLC and the art of programming (not the book lol)
+- 🌱 I’m currently learning more about SDLC and the art of programming (not the book 🙃)
 - 👨‍💻 Learn more about me and my projects at [https://suttuang.com/](https://suttuang.com/)
 - 📫 How to reach me **johnpiapian@gmail.com**
 
