@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently (_trying to_) gracefully dancing through the delightful chaos of all things intriguing! 💻🎨✨
 - 👨‍💻 Learn more about me and my projects at [https://suttuang.com/](https://suttuang.com/)
-- 📫 How to reach me **johnpiapian@gmail.com**
+- 📫 Want to say hi? **johnpiapian@gmail.com**
 
 <br/><br/>
 <h3>A few beloved tech and tools I've worked with:</h3>
