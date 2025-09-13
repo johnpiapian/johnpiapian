@@ -1,6 +1,5 @@
-<h1 align="center">Hello, I'm Sut</h1>
 <h4 align="center">
-  Software Engineer. Tech Enthusiast. Aspiring Polymath. Minimalist. Avid Follower of Soccer and Combat Sports.
+  <p>Software Engineer. Tech Enthusiast. Aspiring Polymath. Minimalist. Avid Follower of Soccer and Combat Sports.</p>
 </h4>
 
 <p align="center"><em>Simplicity is the soul of efficiency. – Austin Freeman</em></p>
