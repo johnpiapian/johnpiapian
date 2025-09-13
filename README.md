@@ -1,9 +1,6 @@
-<h4 align="center">
-  <p>Software Engineer. Tech Enthusiast. Aspiring Polymath. Minimalist. Avid Follower of Soccer and Combat Sports.</p>
-</h4>
 
+<h4 align="center">Software Engineer. Tech Enthusiast. Aspiring Polymath. Minimalist. Avid Follower of Soccer and Combat Sports.</h4>
 <p align="center"><em>Simplicity is the soul of efficiency. – Austin Freeman</em></p>
-
 <br/>
 
 - 💡 I'm passionate about solving complex problems in simple ways.
@@ -11,7 +8,7 @@
 - 👨‍💻 Learn more about me and my projects at [https://suttuang.com/](https://suttuang.com/)
 - 📫 Want to say hi? **johnpiapian@gmail.com**
 
-<br/><br/>
+<br/>
 <h3>A few beloved tech and tools I've worked with:</h3>
 <h4>Frontend:</h4>
 <p align="left">
