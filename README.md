@@ -6,7 +6,6 @@
 - 💡 I'm passionate about solving complex problems in simple ways.
 - 🌱 I'm currently gracefully dancing through the delightful chaos of all things intriguing! 💻🎨✨
 - 👨‍💻 Learn more about me and my projects at [https://suttuang.com/](https://suttuang.com/)
-- 📫 Want to say hi? **johnpiapian@gmail.com**
 
 <br/>
 <h3>A few beloved tech and tools I've worked with:</h3>
